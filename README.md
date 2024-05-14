@@ -1,4 +1,4 @@
-### Hi, my name is Gabriel Fernandez 👋
+# Hi, my name is Gabriel Fernandez 👋
 
 ### Full Stack Developer | React.js | Node.js | Express.js | MongoDB | Material UI 
 
